@@ -45,6 +45,7 @@ MaxScript를 활용하여 얼굴 노멀의 Z축 방향을 프로젝트에서 요
 
 ![Face Normal Correction](normal_z.gif)
 
+
 #### Result
 
 반복적인 노멀 수정 작업을 자동화하여 모델러의 작업 부담을 줄이고, 캐릭터 간 셰이딩 품질을 일관되게 유지할 수 있도록 제작 과정을 개선했습니다.
@@ -77,6 +78,7 @@ MaxScript를 활용하여 얼굴 노멀의 Z축 방향을 프로젝트에서 요
 #### Demo
 
 ![Bone Resizing Automation](size_change.gif)
+
 
 #### Result
 
