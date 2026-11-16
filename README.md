@@ -84,19 +84,6 @@ MaxScript를 활용하여 얼굴 노멀의 Z축 방향을 프로젝트에서 요
 
 ---
 
-## Development & Production
-
-| 구분 | 내용 |
-|---|---|
-| Development | MaxScript |
-| Environment | Autodesk 3ds Max |
-| Implementation | 자동화 로직 설계 및 UI 도구 개발 |
-| Application | 게임 캐릭터 제작 및 애니메이션 파이프라인 |
-| Deployment | 프로젝트 내 공용 도구로 적용 |
-| Users | 프로젝트 소속 애니메이터 전원 |
-
----
-
 ## Repository Information
 
 개발 당시 기록한 시연 GIF를 중심으로 주요 기능과 구현 목적을 정리했습니다.
